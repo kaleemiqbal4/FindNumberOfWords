@@ -63,6 +63,7 @@ Console.ReadLine();
 ## Running the Application
 
 1. Clone the repository or download the source code.
+   `git clone https://github.com/kaleemiqbal4/FindNumberOfWords.git`
 2. Open the project in your preferred C# development environment.
 3. Build and run the application.
 4. Enter a sentence when prompted.
